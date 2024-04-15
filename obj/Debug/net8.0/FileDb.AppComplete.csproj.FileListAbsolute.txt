@@ -1,0 +1,15 @@
+C:\Users\Ahmadxon\Source\Repos\FileDb.AppComplete\FileDb.AppComplete\bin\Debug\net8.0\FileDb.AppComplete.exe
+C:\Users\Ahmadxon\Source\Repos\FileDb.AppComplete\FileDb.AppComplete\bin\Debug\net8.0\FileDb.AppComplete.deps.json
+C:\Users\Ahmadxon\Source\Repos\FileDb.AppComplete\FileDb.AppComplete\bin\Debug\net8.0\FileDb.AppComplete.runtimeconfig.json
+C:\Users\Ahmadxon\Source\Repos\FileDb.AppComplete\FileDb.AppComplete\bin\Debug\net8.0\FileDb.AppComplete.dll
+C:\Users\Ahmadxon\Source\Repos\FileDb.AppComplete\FileDb.AppComplete\bin\Debug\net8.0\FileDb.AppComplete.pdb
+C:\Users\Ahmadxon\Source\Repos\FileDb.AppComplete\FileDb.AppComplete\obj\Debug\net8.0\FileDb.AppComplete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmadxon\Source\Repos\FileDb.AppComplete\FileDb.AppComplete\obj\Debug\net8.0\FileDb.AppComplete.AssemblyInfoInputs.cache
+C:\Users\Ahmadxon\Source\Repos\FileDb.AppComplete\FileDb.AppComplete\obj\Debug\net8.0\FileDb.AppComplete.AssemblyInfo.cs
+C:\Users\Ahmadxon\Source\Repos\FileDb.AppComplete\FileDb.AppComplete\obj\Debug\net8.0\FileDb.AppComplete.csproj.CoreCompileInputs.cache
+C:\Users\Ahmadxon\Source\Repos\FileDb.AppComplete\FileDb.AppComplete\obj\Debug\net8.0\FileDb.AppComplete.dll
+C:\Users\Ahmadxon\Source\Repos\FileDb.AppComplete\FileDb.AppComplete\obj\Debug\net8.0\refint\FileDb.AppComplete.dll
+C:\Users\Ahmadxon\Source\Repos\FileDb.AppComplete\FileDb.AppComplete\obj\Debug\net8.0\FileDb.AppComplete.pdb
+C:\Users\Ahmadxon\Source\Repos\FileDb.AppComplete\FileDb.AppComplete\obj\Debug\net8.0\FileDb.AppComplete.genruntimeconfig.cache
+C:\Users\Ahmadxon\Source\Repos\FileDb.AppComplete\FileDb.AppComplete\obj\Debug\net8.0\ref\FileDb.AppComplete.dll
+C:\Users\Ahmadxon\Source\Repos\FileDb.AppComplete\FileDb.AppComplete\obj\Debug\net8.0\FileDb.AppComplete.sourcelink.json
